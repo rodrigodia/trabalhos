@@ -1,0 +1,1 @@
+está ligado a base de dados local usando o xampp

@@ -1,0 +1,58 @@
+body {
+   width: 1280px;
+   margin: 5px auto;
+   display: block;
+   background: rgb(195, 231, 243);
+}
+
+h1 {
+   background: rgb(112, 150, 233);
+   border: 1px solid black;
+   display: block;
+   margin: 0 auto;
+   text-align: center;
+   border-radius: 10px;
+   font-size: 40px;
+}
+
+img {
+   border-radius: 10px;
+
+}
+
+.slideshow {
+   margin-bottom: 5px;
+}
+
+#escondido {
+   background: rgb(112, 150, 233);
+   border: 1px solid black;
+   padding: 5px;
+   text-align: justify;
+   font-size: 20px;
+   display: none;
+   border-radius: 10px;
+}
+
+#botao {
+   text-align: center;
+   font-size: 30px;
+   background: rgb(112, 150, 233);
+   border: 1px solid black;
+   border-radius: 10px;
+}
+
+input.text {
+   margin: 2px;
+   border: 0;
+   background: none;
+   border-bottom: 1px solid rgb(112, 150, 233);
+   outline: none;
+}
+
+input.botao {
+   margin-top: 4px;
+   background: rgb(112, 150, 233);
+   border: 1px solid black;
+
+}
